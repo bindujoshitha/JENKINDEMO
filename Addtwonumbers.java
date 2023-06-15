@@ -9,6 +9,7 @@ public class addtwonumbers {
 		int b=50;
 		int sum=a+b;
 		System.out.println("sum of two numbers "+a+" and "+b+" is: "+sum);
+		System.out.println("------------------");
 	}
 
 }
